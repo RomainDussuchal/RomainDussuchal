@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Romain Dussuchal 
+
+# An Experienced Full Stack Developper.
 
 <!--
 **RomainDussuchal/RomainDussuchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
