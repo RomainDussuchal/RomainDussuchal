@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Romain Dussuchal 
+# Hi there 👋
 
-# Experienced Full Stack Developer
+## Experienced Full Stack Developer
 
 I am a passionate and experienced full-stack developer specializing in building dynamic and responsive web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. With expertise in both front-end and back-end development, I strive to deliver high-quality, scalable software tailored to clients' needs.
 
