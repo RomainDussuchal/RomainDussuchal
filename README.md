@@ -44,9 +44,6 @@ I am a passionate and experienced full-stack developer specializing in building 
   ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📈 GitHub Stats
-
-![Romain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainDussuchal&show_icons=true&theme=radical)
 
 Feel free to check out my repositories to see some of my latest work and the technologies I've been working with!
 
