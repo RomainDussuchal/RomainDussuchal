@@ -8,7 +8,7 @@ I am a passionate and experienced full-stack developer specializing in building 
 - 🌱 I’m currently learning **new technologies** to keep my skills sharp, including the latest in JavaScript frameworks, server-side development, and cloud-based solutions.
 - 👯 I’m looking to collaborate on **web development projects** and **open-source initiatives** that drive innovation and enhance user experiences.
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**, or how to build scalable and efficient web applications.
-- 📫 How to reach me: You can email me at [romain.dussuchal73@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/romain-dussuchal/](https://www.linkedin.com/in/romain-dussuchal-946721b6/).
+- 📫 How to reach me: You can email me at [romain.dussuchal73@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/romain-dussuchal-946721b6/).
 - ⚡ Fun fact: When I'm not coding, I love to explore new cuisines and travel to different parts of the world.
 
 ### 🚀 Skills & Technologies
